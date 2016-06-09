@@ -1,7 +1,7 @@
 {
-  "name": "gx-poc-ui-tests",
+  "name": "webdriverio-ava-xplatform-framework",
   "version": "1.0.0",
-  "description": "WebDriver based UI tests for GX react-native POC app",
+  "description": "Cross Platform UI Test Framework - WebdriverIO+AVA+Grunt",
   "scripts": {
     "ava": "ava",
     "grunt": "grunt",
