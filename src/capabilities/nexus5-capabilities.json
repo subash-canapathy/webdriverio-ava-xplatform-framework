@@ -1,0 +1,7 @@
+{
+  "app": "app-debug.apk",
+  "deviceName": "Nexus5",
+  "platformName": "Android",
+  "automationName": "Appium",
+  "browserName": ""
+}

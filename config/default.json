@@ -1,0 +1,17 @@
+{
+  "testRunnerTimeout": 1500000,
+  "baseUrl": "https://localhost",
+  "explicitWaitMs": 30000,
+  "pollingFreqMs" : 500,
+  "appBinariesDir" : "appBin",
+  "appiumAndroidPort" : 4723,
+  "appiumiOSPort" : 4723,
+  "seleniumPort" : 4445,
+  "driverHost" : "localhost",
+  "sauce" : {
+    "username" : "",
+    "accessKey" : "",
+    "hostname": "ondemand.saucelabs.com",
+    "port": "80"
+  }
+}

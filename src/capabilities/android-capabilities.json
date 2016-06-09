@@ -1,0 +1,10 @@
+{
+  "app": "app-debug.apk",
+  "deviceName": "Android Emulator",
+  "platformName": "Android",
+  "platformVersion": "5.1",
+  "browserName": "",
+  "deviceOrientation": "portrait",
+  "appiumVersion": "1.5.2",
+  "deviceType": "phone"
+}

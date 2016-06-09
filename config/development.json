@@ -1,0 +1,6 @@
+{
+  "appiumAndroidPort" : 4723,
+  "appiumiOSPort" : 4724,
+  "seleniumPort" : 4444,
+  "driverHost" : "localhost"
+}
